@@ -1,5 +1,9 @@
 import java.util.Scanner;
-
+/**
+ * Desglosa en X numero de billetes de cada tipo el importe de Euros introducido
+ * @version 1.0
+ * @author Fernando Piñeiro
+ */
 public class ej4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

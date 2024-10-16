@@ -1,5 +1,9 @@
 import java.util.Scanner;
-
+/**
+ * Clase que pide nombre y peso y devuelve la diferencia
+ * @version 1.0
+ * @author Fernando Piñeiro
+ */
 public class bol3ej4 {
     public static void main(String[] args) {
         //ejericicio peso

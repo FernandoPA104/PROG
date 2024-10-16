@@ -1,4 +1,9 @@
 import java.util.Scanner;
+/**
+ * Convierte a Grados Kelvin los Grados Celsius introducidos
+ * @version 1.0
+ * @author Fernando Piñeiro
+ */
 public class ej2 {
     public static void main(String[] args) {
         //recoger valores

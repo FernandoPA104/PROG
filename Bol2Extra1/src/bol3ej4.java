@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class bol3ej4 {
     public static void main(String[] args) {
+        //ejericicio peso
         Scanner sc = new Scanner(System.in);
         System.out.println("Introduce el nombre de la primera persona: ");
         String nome1 = sc.nextLine();
